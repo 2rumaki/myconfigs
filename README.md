@@ -54,4 +54,8 @@ Windows の場合、まずは Windows 側にインストールしてから、Win
 
 #### [LazyVim](https://www.lazyvim.org/)
 
+#### [Catppuccin](https://github.com/catppuccin/nvim)
+
+neovim のカラースキームを提供するプラグイン
+
 ### [Lazygit](https://github.com/jesseduffield/lazygit)
