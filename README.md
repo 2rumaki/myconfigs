@@ -50,3 +50,8 @@ Windows の場合、まずは Windows 側にインストールしてから、Win
 3. `*.ttf` ファイルが展開されるので、すべて右クリックor左ダブルクリックで開いて「インストール」を選択
 4. Windowsターミナルで、Settings → Profiles → Ubuntu → Appearance → Font face で HackGen Console NF を選択
 
+### [neovim](https://neovim.io/)
+
+#### [LazyVim](https://www.lazyvim.org/)
+
+### [Lazygit](https://github.com/jesseduffield/lazygit)
