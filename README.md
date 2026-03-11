@@ -63,3 +63,7 @@ neovim のカラースキームを提供するプラグイン
 ### [delta](https://github.com/dandavison/delta)
 
 `git diff` の可読性を高める
+
+### [Atuin](https://docs.atuin.sh/cli/)
+
+シェルのコマンド実行履歴を曖昧検索する
