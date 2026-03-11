@@ -59,3 +59,7 @@ Windows の場合、まずは Windows 側にインストールしてから、Win
 neovim のカラースキームを提供するプラグイン
 
 ### [Lazygit](https://github.com/jesseduffield/lazygit)
+
+### [delta](https://github.com/dandavison/delta)
+
+`git diff` の可読性を高める
