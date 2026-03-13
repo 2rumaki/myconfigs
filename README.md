@@ -9,7 +9,6 @@ PCを買い替えた際などに開発環境の復旧を容易かつ確実に実
 - [zsh](https://www.zsh.org/)
   - WSL2（Ubuntu 24.04）の場合: `sudo apt install zsh`
   - ログインシェルを zsh に変更: `chsh -s /bin/zsh`
-- [Oh My Zsh](https://ohmyz.sh/)
 - [mise](https://mise.jdx.dev/)
 
 ## 使い方
