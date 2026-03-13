@@ -25,5 +25,5 @@ exec $SHELL -l
 ### インストール
 
 ```bash
-git clone --recurse-submodules https://github.com/olets/zsh-abbr ~/.local/share/zsh-abbr
+mkdir -p ~/.local/share && git clone --recurse-submodules https://github.com/olets/zsh-abbr ~/.local/share/zsh-abbr
 ```
