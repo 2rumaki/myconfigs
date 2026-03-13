@@ -17,3 +17,13 @@ chsh -s $(which zsh)
 ```bash
 exec $SHELL -l
 ```
+
+## zsh-abbr
+
+- 参考: https://zsh-abbr.olets.dev/
+
+### インストール
+
+```bash
+git clone --recurse-submodules https://github.com/olets/zsh-abbr ~/.local/share/zsh-abbr
+```
